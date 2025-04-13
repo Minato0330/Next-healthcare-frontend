@@ -99,21 +99,20 @@
 ---
 
 ### Contributor
-* Ahanaf Mubasshir ( Team Leader )
-* Sakibur Rahman ( Backend Developer ) 
-* Md. Afsar Hossain ( Frontend Developer )
-* Abu Sayed Sarker ( Frontend Developer ) 
-* A S M Maghferat Takmim ( Frontend Developer )
+* Yang Ting ( Team Leader )
+* Dmytrii Dudko ( Backend Developer ) 
+* Yang Ting ( Frontend Developer )
+* Li Guiying ( Frontend Developer ) 
 
 
 ## 🧪 Local Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/ahanaf607307/smart-med-appointments-healthcare-nextjs.git
+git clone https://github.com/Minato0330/Next-healthcare-frontend.git
 
 # Go into the project directory
-cd smart-med-appointments
+cd Next-healthcare-frontend
 
 # Install dependencies
 npm install
